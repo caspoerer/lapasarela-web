@@ -1,0 +1,228 @@
+# Panel de edición de La Pasarela (Sveltia CMS, compatible con Decap CMS)
+# Se abre en https://www.lapasarela.cl/admin/
+backend:
+  name: github
+  repo: caspoerer/lapasarela-web   # <- cambia si el repositorio tiene otro nombre
+  branch: main
+  base_url: https://sveltia-cms-auth.CAMBIAR.workers.dev   # <- URL de tu Worker de autenticación (paso 4 de la guía)
+
+site_url: https://www.lapasarela.cl
+display_url: https://www.lapasarela.cl
+logo_url: /assets/img/favicon.png
+media_folder: assets/img/uploads
+public_folder: /assets/img/uploads
+
+collections:
+  - name: carta
+    label: Carta
+    files:
+      - name: menu
+        label: Carta (platos y precios)
+        file: content/menu.json
+        fields:
+          - label: Categorías
+            name: categorias
+            widget: list
+            summary: "{{fields.nombre_es}}"
+            fields:
+              - {label: "Código interno (sin espacios)", name: id, widget: string}
+              - {label: "Nombre de la categoría (Español)", name: nombre_es, widget: string}
+              - {label: "Nombre de la categoría (English)", name: nombre_en, widget: string}
+              - {label: "Nombre de la categoría (Português)", name: nombre_pt, widget: string}
+              - {label: "Nota bajo la categoría (Español)", name: nota_es, widget: string, required: false}
+              - {label: "Nota bajo la categoría (English)", name: nota_en, widget: string, required: false}
+              - {label: "Nota bajo la categoría (Português)", name: nota_pt, widget: string, required: false}
+              - label: Platos
+                name: platos
+                widget: list
+                summary: "{{fields.nombre}}  ${{fields.precio}}"
+                fields:
+                  - {label: "Nombre del plato (no se traduce)", name: nombre, widget: string}
+                  - {label: "Descripción (Español)", name: desc_es, widget: text, required: false}
+                  - {label: "Descripción (English)", name: desc_en, widget: text, required: false}
+                  - {label: "Descripción (Português)", name: desc_pt, widget: text, required: false}
+                  - {label: "Precio (ej: 19.990)", name: precio, widget: string}
+                  - {label: Etiquetas, name: etiquetas, widget: select, multiple: true, required: false, options: [vegetariano, vegano, sin gluten, picante, para compartir]}
+                  - {label: "Mostrar en la web", name: visible, widget: boolean, default: true}
+
+  - name: sitio
+    label: Textos y datos del sitio
+    files:
+      - name: site
+        label: Textos, fotos y datos de contacto
+        file: content/site.json
+        fields:
+          - label: Datos generales
+            name: general
+            widget: object
+            fields:
+              - {label: Nombre, name: nombre, widget: string}
+              - {label: Dirección, name: direccion, widget: string}
+              - {label: "Enlace Google Maps", name: maps_url, widget: string}
+              - {label: "Teléfono (como se muestra)", name: telefono, widget: string}
+              - {label: "WhatsApp (solo números, con 56, ej: 56912345678)", name: whatsapp, widget: string}
+              - {label: Correo de contacto, name: email, widget: string}
+              - {label: "Instagram (sin @)", name: instagram, widget: string}
+              - {label: "Mostrar precios en la carta", name: mostrar_precios, widget: boolean, default: true}
+              - {label: "URL del script de reservas (Google Apps Script). Vacío = las reservas se envían por WhatsApp", name: reservas_endpoint, widget: string, required: false}
+              - {label: "Horas disponibles para reservar (separadas por coma)", name: horas_reserva, widget: string}
+              - {label: "Máximo de personas por reserva web", name: max_personas, widget: number, value_type: int, min: 1, max: 30}
+          - label: Fotografías
+            name: imagenes
+            widget: object
+            fields:
+              - {label: "Portada (horizontal, mínimo 2000 px de ancho)", name: hero, widget: image}
+              - {label: "Historia: foto grande", name: historia_1, widget: image}
+              - {label: "Historia: foto 2", name: historia_2, widget: image}
+              - {label: "Historia: foto 3", name: historia_3, widget: image}
+              - {label: "Reservas", name: reservas, widget: image}
+          - label: "Textos en Español"
+            name: es
+            widget: object
+            collapsed: true
+            fields:
+              - {label: "Título para Google", name: meta_title, widget: string}
+              - {label: "Descripción para Google", name: meta_description, widget: text}
+              - {label: "Menú superior: Menú", name: nav_carta, widget: string}
+              - {label: "Menú superior: Historia", name: nav_historia, widget: string}
+              - {label: "Menú superior: Reservas", name: nav_reservas, widget: string}
+              - {label: "Menú superior: Contacto", name: nav_contacto, widget: string}
+              - {label: "Contacto: título", name: contacto_titulo, widget: string}
+              - {label: "Portada: frase principal", name: hero_titulo, widget: string}
+              - {label: "Portada: bajada", name: hero_bajada, widget: string}
+              - {label: "Portada: botón", name: hero_boton, widget: string}
+              - {label: "Texto de bienvenida", name: intro, widget: text}
+              - {label: "Título horario", name: horario_titulo, widget: string}
+              - {label: "Horario (una línea por tramo)", name: horario_texto, widget: text}
+              - {label: "Título dirección", name: direccion_titulo, widget: string}
+              - {label: "Texto del enlace a Google Maps", name: como_llegar, widget: string}
+              - {label: "Menú: título", name: carta_titulo, widget: string}
+              - {label: "Carta: introducción", name: carta_intro, widget: text}
+              - {label: "Carta: nota al pie", name: carta_nota, widget: text}
+              - {label: "Historia: título", name: historia_titulo, widget: string}
+              - {label: "Historia: texto (deja una línea en blanco entre párrafos)", name: historia_texto, widget: text}
+              - {label: "Historia: frase destacada", name: historia_cita, widget: string}
+              - label: "Historia: recorrido del río (4 paradas)"
+                name: recorrido
+                widget: list
+                summary: "{{fields.lugar}}"
+                fields:
+                  - {label: Lugar, name: lugar, widget: string}
+                  - {label: Texto, name: texto, widget: string}
+              - {label: "Reservas: título", name: reservas_titulo, widget: string}
+              - {label: "Reservas: texto", name: reservas_texto, widget: text}
+              - {label: "Formulario: Nombre", name: form_nombre, widget: string}
+              - {label: "Formulario: Correo", name: form_email, widget: string}
+              - {label: "Formulario: Teléfono", name: form_telefono, widget: string}
+              - {label: "Formulario: Fecha", name: form_fecha, widget: string}
+              - {label: "Formulario: Hora", name: form_hora, widget: string}
+              - {label: "Formulario: Personas", name: form_personas, widget: string}
+              - {label: "Formulario: Comentarios", name: form_comentarios, widget: string}
+              - {label: "Formulario: botón enviar", name: form_enviar, widget: string}
+              - {label: "Formulario: mientras envía", name: form_enviando, widget: string}
+              - {label: "Formulario: mensaje de éxito", name: form_exito, widget: text}
+              - {label: "Formulario: mensaje de error", name: form_error, widget: text}
+              - {label: "Formulario: aviso grupos ({max} = máximo de personas)", name: form_grupos, widget: string}
+              - {label: "Formulario: botón WhatsApp", name: form_whatsapp, widget: string}
+              - {label: "Pie de página: texto", name: footer_texto, widget: string}
+              - {label: "Pie de página: enlace de acceso equipo", name: footer_equipo, widget: string}
+          - label: "Textos en English"
+            name: en
+            widget: object
+            collapsed: true
+            fields:
+              - {label: "Título para Google", name: meta_title, widget: string}
+              - {label: "Descripción para Google", name: meta_description, widget: text}
+              - {label: "Menú superior: Menú", name: nav_carta, widget: string}
+              - {label: "Menú superior: Historia", name: nav_historia, widget: string}
+              - {label: "Menú superior: Reservas", name: nav_reservas, widget: string}
+              - {label: "Menú superior: Contacto", name: nav_contacto, widget: string}
+              - {label: "Contacto: título", name: contacto_titulo, widget: string}
+              - {label: "Portada: frase principal", name: hero_titulo, widget: string}
+              - {label: "Portada: bajada", name: hero_bajada, widget: string}
+              - {label: "Portada: botón", name: hero_boton, widget: string}
+              - {label: "Texto de bienvenida", name: intro, widget: text}
+              - {label: "Título horario", name: horario_titulo, widget: string}
+              - {label: "Horario (una línea por tramo)", name: horario_texto, widget: text}
+              - {label: "Título dirección", name: direccion_titulo, widget: string}
+              - {label: "Texto del enlace a Google Maps", name: como_llegar, widget: string}
+              - {label: "Menú: título", name: carta_titulo, widget: string}
+              - {label: "Carta: introducción", name: carta_intro, widget: text}
+              - {label: "Carta: nota al pie", name: carta_nota, widget: text}
+              - {label: "Historia: título", name: historia_titulo, widget: string}
+              - {label: "Historia: texto (deja una línea en blanco entre párrafos)", name: historia_texto, widget: text}
+              - {label: "Historia: frase destacada", name: historia_cita, widget: string}
+              - label: "Historia: recorrido del río (4 paradas)"
+                name: recorrido
+                widget: list
+                summary: "{{fields.lugar}}"
+                fields:
+                  - {label: Lugar, name: lugar, widget: string}
+                  - {label: Texto, name: texto, widget: string}
+              - {label: "Reservas: título", name: reservas_titulo, widget: string}
+              - {label: "Reservas: texto", name: reservas_texto, widget: text}
+              - {label: "Formulario: Nombre", name: form_nombre, widget: string}
+              - {label: "Formulario: Correo", name: form_email, widget: string}
+              - {label: "Formulario: Teléfono", name: form_telefono, widget: string}
+              - {label: "Formulario: Fecha", name: form_fecha, widget: string}
+              - {label: "Formulario: Hora", name: form_hora, widget: string}
+              - {label: "Formulario: Personas", name: form_personas, widget: string}
+              - {label: "Formulario: Comentarios", name: form_comentarios, widget: string}
+              - {label: "Formulario: botón enviar", name: form_enviar, widget: string}
+              - {label: "Formulario: mientras envía", name: form_enviando, widget: string}
+              - {label: "Formulario: mensaje de éxito", name: form_exito, widget: text}
+              - {label: "Formulario: mensaje de error", name: form_error, widget: text}
+              - {label: "Formulario: aviso grupos ({max} = máximo de personas)", name: form_grupos, widget: string}
+              - {label: "Formulario: botón WhatsApp", name: form_whatsapp, widget: string}
+              - {label: "Pie de página: texto", name: footer_texto, widget: string}
+              - {label: "Pie de página: enlace de acceso equipo", name: footer_equipo, widget: string}
+          - label: "Textos en Português"
+            name: pt
+            widget: object
+            collapsed: true
+            fields:
+              - {label: "Título para Google", name: meta_title, widget: string}
+              - {label: "Descripción para Google", name: meta_description, widget: text}
+              - {label: "Menú superior: Menú", name: nav_carta, widget: string}
+              - {label: "Menú superior: Historia", name: nav_historia, widget: string}
+              - {label: "Menú superior: Reservas", name: nav_reservas, widget: string}
+              - {label: "Menú superior: Contacto", name: nav_contacto, widget: string}
+              - {label: "Contacto: título", name: contacto_titulo, widget: string}
+              - {label: "Portada: frase principal", name: hero_titulo, widget: string}
+              - {label: "Portada: bajada", name: hero_bajada, widget: string}
+              - {label: "Portada: botón", name: hero_boton, widget: string}
+              - {label: "Texto de bienvenida", name: intro, widget: text}
+              - {label: "Título horario", name: horario_titulo, widget: string}
+              - {label: "Horario (una línea por tramo)", name: horario_texto, widget: text}
+              - {label: "Título dirección", name: direccion_titulo, widget: string}
+              - {label: "Texto del enlace a Google Maps", name: como_llegar, widget: string}
+              - {label: "Menú: título", name: carta_titulo, widget: string}
+              - {label: "Carta: introducción", name: carta_intro, widget: text}
+              - {label: "Carta: nota al pie", name: carta_nota, widget: text}
+              - {label: "Historia: título", name: historia_titulo, widget: string}
+              - {label: "Historia: texto (deja una línea en blanco entre párrafos)", name: historia_texto, widget: text}
+              - {label: "Historia: frase destacada", name: historia_cita, widget: string}
+              - label: "Historia: recorrido del río (4 paradas)"
+                name: recorrido
+                widget: list
+                summary: "{{fields.lugar}}"
+                fields:
+                  - {label: Lugar, name: lugar, widget: string}
+                  - {label: Texto, name: texto, widget: string}
+              - {label: "Reservas: título", name: reservas_titulo, widget: string}
+              - {label: "Reservas: texto", name: reservas_texto, widget: text}
+              - {label: "Formulario: Nombre", name: form_nombre, widget: string}
+              - {label: "Formulario: Correo", name: form_email, widget: string}
+              - {label: "Formulario: Teléfono", name: form_telefono, widget: string}
+              - {label: "Formulario: Fecha", name: form_fecha, widget: string}
+              - {label: "Formulario: Hora", name: form_hora, widget: string}
+              - {label: "Formulario: Personas", name: form_personas, widget: string}
+              - {label: "Formulario: Comentarios", name: form_comentarios, widget: string}
+              - {label: "Formulario: botón enviar", name: form_enviar, widget: string}
+              - {label: "Formulario: mientras envía", name: form_enviando, widget: string}
+              - {label: "Formulario: mensaje de éxito", name: form_exito, widget: text}
+              - {label: "Formulario: mensaje de error", name: form_error, widget: text}
+              - {label: "Formulario: aviso grupos ({max} = máximo de personas)", name: form_grupos, widget: string}
+              - {label: "Formulario: botón WhatsApp", name: form_whatsapp, widget: string}
+              - {label: "Pie de página: texto", name: footer_texto, widget: string}
+              - {label: "Pie de página: enlace de acceso equipo", name: footer_equipo, widget: string}

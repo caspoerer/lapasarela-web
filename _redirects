@@ -1,0 +1,4 @@
+# /en y /pt sin barra final -> con barra (las carpetas en/ y pt/ contienen copias de index.html)
+/en      /en/          301
+/pt      /pt/          301
+/admin   /admin/       301

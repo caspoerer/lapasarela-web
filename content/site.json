@@ -1,0 +1,196 @@
+{
+  "general": {
+    "nombre": "La Pasarela",
+    "direccion": "Av. Príncipe de Gales 6519-A, La Reina, Santiago",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Av.+Pr%C3%ADncipe+de+Gales+6519,+La+Reina,+Santiago",
+    "telefono": "+56 9 0000 0000",
+    "whatsapp": "56900000000",
+    "email": "reservas@lapasarela.cl",
+    "instagram": "lapasarelacl",
+    "mostrar_precios": true,
+    "reservas_endpoint": "",
+    "horas_reserva": "12:30, 13:00, 13:30, 14:00, 14:30, 15:00, 19:00, 19:30, 20:00, 20:30, 21:00, 21:30, 22:00",
+    "max_personas": 8
+  },
+  "imagenes": {
+    "hero": "/assets/img/rio-puelo-2000.webp",
+    "historia_1": "/assets/img/cordillera-puelo-2000.webp",
+    "historia_2": "/assets/img/fogon-1000.webp",
+    "historia_3": "/assets/img/ovejas-valle-1000.webp",
+    "reservas": "/assets/img/ventana-cabana-1000.webp"
+  },
+  "es": {
+    "meta_title": "La Pasarela | Cocina del sur en La Reina, Santiago",
+    "meta_description": "Restaurante de cocina casera con identidad patagónica, inspirado en el valle del río Puelo. Av. Príncipe de Gales 6519-A, La Reina. Carta y reservas.",
+    "nav_carta": "Menú",
+    "nav_historia": "Historia",
+    "nav_reservas": "Reservas",
+    "nav_contacto": "Contacto",
+    "contacto_titulo": "Contacto",
+    "hero_titulo": "Un puente entre la Patagonia y tu mesa.",
+    "hero_bajada": "Cocina casera con identidad sureña, en Príncipe de Gales, La Reina.",
+    "hero_boton": "Reservar mesa",
+    "intro": "La Pasarela nace de tres personas apasionadas por la cocina y por el sur de Chile. Nuestra inspiración está en el valle del río Puelo, en los puentes que cruzan sus aguas y en una forma de cocinar que valora el origen, el oficio y la reunión alrededor de la mesa.",
+    "horario_titulo": "Horario",
+    "horario_texto": "Lunes a sábado, 12:30 a 23:30\nDomingo, 12:30 a 17:00",
+    "direccion_titulo": "Dónde estamos",
+    "como_llegar": "Cómo llegar",
+    "carta_titulo": "Menú",
+    "carta_intro": "Salsas hechas en casa, cocción lenta y productos del sur. Platos para compartir o para uno.",
+    "carta_nota": "Precios en pesos chilenos, IVA incluido. Si tienes alguna alergia, avísanos al pedir.",
+    "historia_titulo": "De río a estuario",
+    "historia_texto": "El río Puelo nace en Argentina, baja entre la cordillera, atraviesa el valle y se abre al mar en el estuario de Reloncaví. Ese recorrido ordena nuestra cocina: salmón, cordero, merquén, murta y hierbas que conservan la memoria del sur, trabajados con técnicas de hoy.\n\nNo buscamos copiar el paisaje. Cocinamos con tiempo, hacemos nuestras salsas en casa y elegimos ingredientes que cuentan de dónde vienen. La sobremesa también es parte de la experiencia.\n\nEn nuestro logo, un carpintero negro, arquitecto del bosque y símbolo de buena fortuna, cuida el cruce sin robarle protagonismo.",
+    "historia_cita": "Nuestra cocina no busca reinventar el sur. Busca rendirle homenaje.",
+    "recorrido": [
+      {
+        "lugar": "Argentina",
+        "texto": "Origen y cruce"
+      },
+      {
+        "lugar": "Cordillera",
+        "texto": "Fuerza y paisaje"
+      },
+      {
+        "lugar": "Valle del río Puelo",
+        "texto": "Memoria y comunidad"
+      },
+      {
+        "lugar": "Estuario de Reloncaví",
+        "texto": "Encuentro con el mar"
+      }
+    ],
+    "reservas_titulo": "Reservas",
+    "reservas_texto": "Almuerzo de semana, after office o una sobremesa larga de fin de semana. Envíanos tu solicitud y te confirmaremos la mesa por correo o WhatsApp.",
+    "form_nombre": "Nombre",
+    "form_email": "Correo",
+    "form_telefono": "Teléfono",
+    "form_fecha": "Fecha",
+    "form_hora": "Hora",
+    "form_personas": "Personas",
+    "form_comentarios": "Comentarios (opcional)",
+    "form_enviar": "Solicitar reserva",
+    "form_enviando": "Enviando…",
+    "form_exito": "Recibimos tu solicitud. Te confirmaremos la reserva a la brevedad.",
+    "form_error": "No se pudo enviar la solicitud. Inténtalo otra vez o escríbenos por WhatsApp.",
+    "form_grupos": "¿Más de {max} personas? Escríbenos por WhatsApp y armamos la mesa.",
+    "form_whatsapp": "Escribir por WhatsApp",
+    "footer_texto": "Cocina del sur de Chile en Santiago.",
+    "footer_equipo": "Acceso equipo"
+  },
+  "en": {
+    "meta_title": "La Pasarela | Southern Chilean cooking in La Reina, Santiago",
+    "meta_description": "Home-style cooking with a Patagonian identity, inspired by the Puelo River valley. Av. Príncipe de Gales 6519-A, La Reina. Menu and reservations.",
+    "nav_carta": "Menu",
+    "nav_historia": "Our story",
+    "nav_reservas": "Reservations",
+    "nav_contacto": "Contact",
+    "contacto_titulo": "Contact",
+    "hero_titulo": "A bridge between Patagonia and your table.",
+    "hero_bajada": "Home-style cooking with a southern Chilean identity, on Príncipe de Gales, La Reina.",
+    "hero_boton": "Book a table",
+    "intro": "La Pasarela was started by three people who love cooking and the south of Chile. Our inspiration is the Puelo River valley, the footbridges that cross its waters, and a way of cooking that values origin, craft and gathering around the table.",
+    "horario_titulo": "Opening hours",
+    "horario_texto": "Monday to Saturday, 12:30 pm to 11:30 pm\nSunday, 12:30 pm to 5:00 pm",
+    "direccion_titulo": "Find us",
+    "como_llegar": "Get directions",
+    "carta_titulo": "Menu",
+    "carta_intro": "House-made sauces, slow cooking and produce from the south. Dishes to share or to keep to yourself.",
+    "carta_nota": "Prices in Chilean pesos, VAT included. Please tell us about any allergies when you order.",
+    "historia_titulo": "From river to estuary",
+    "historia_texto": "The Puelo River rises in Argentina, runs down through the Andes, crosses the valley and opens into the sea at the Reloncaví estuary. That journey shapes our cooking: salmon, lamb, merkén, murta berries and herbs that carry the memory of the south, prepared with today's techniques.\n\nWe don't try to copy the landscape. We cook slowly, make our sauces in house and choose ingredients that tell you where they come from. Lingering at the table afterwards is part of the experience.\n\nIn our logo, a Magellanic woodpecker, architect of the forest and a sign of good fortune, watches over the crossing without stealing the show.",
+    "historia_cita": "Our cooking doesn't try to reinvent the south. It pays tribute to it.",
+    "recorrido": [
+      {
+        "lugar": "Argentina",
+        "texto": "Origin and crossing"
+      },
+      {
+        "lugar": "The Andes",
+        "texto": "Strength and landscape"
+      },
+      {
+        "lugar": "Puelo River valley",
+        "texto": "Memory and community"
+      },
+      {
+        "lugar": "Reloncaví estuary",
+        "texto": "Meeting the sea"
+      }
+    ],
+    "reservas_titulo": "Reservations",
+    "reservas_texto": "A weekday lunch, after-work drinks or a long weekend meal. Send us your request and we'll confirm your table by email or WhatsApp.",
+    "form_nombre": "Name",
+    "form_email": "Email",
+    "form_telefono": "Phone",
+    "form_fecha": "Date",
+    "form_hora": "Time",
+    "form_personas": "Guests",
+    "form_comentarios": "Comments (optional)",
+    "form_enviar": "Request a table",
+    "form_enviando": "Sending…",
+    "form_exito": "We've received your request. We'll confirm your table shortly.",
+    "form_error": "Your request couldn't be sent. Please try again or message us on WhatsApp.",
+    "form_grupos": "More than {max} guests? Message us on WhatsApp and we'll set up your table.",
+    "form_whatsapp": "Message us on WhatsApp",
+    "footer_texto": "Southern Chilean cooking in Santiago.",
+    "footer_equipo": "Team access"
+  },
+  "pt": {
+    "meta_title": "La Pasarela | Cozinha do sul do Chile em La Reina, Santiago",
+    "meta_description": "Cozinha caseira com identidade patagônica, inspirada no vale do rio Puelo. Av. Príncipe de Gales 6519-A, La Reina. Cardápio e reservas.",
+    "nav_carta": "Cardápio",
+    "nav_historia": "História",
+    "nav_reservas": "Reservas",
+    "nav_contacto": "Contato",
+    "contacto_titulo": "Contato",
+    "hero_titulo": "Uma ponte entre a Patagônia e a sua mesa.",
+    "hero_bajada": "Cozinha caseira com identidade do sul do Chile, na Príncipe de Gales, La Reina.",
+    "hero_boton": "Reservar mesa",
+    "intro": "La Pasarela nasceu de três pessoas apaixonadas pela cozinha e pelo sul do Chile. Nossa inspiração está no vale do rio Puelo, nas passarelas que cruzam suas águas e em um jeito de cozinhar que valoriza a origem, o ofício e o encontro ao redor da mesa.",
+    "horario_titulo": "Horário",
+    "horario_texto": "Segunda a sábado, das 12h30 às 23h30\nDomingo, das 12h30 às 17h00",
+    "direccion_titulo": "Onde estamos",
+    "como_llegar": "Como chegar",
+    "carta_titulo": "Cardápio",
+    "carta_intro": "Molhos feitos em casa, cozimento lento e produtos do sul. Pratos para compartilhar ou para você.",
+    "carta_nota": "Preços em pesos chilenos, impostos incluídos. Se tiver alguma alergia, avise-nos ao fazer o pedido.",
+    "historia_titulo": "Do rio ao estuário",
+    "historia_texto": "O rio Puelo nasce na Argentina, desce pela cordilheira, atravessa o vale e se abre para o mar no estuário de Reloncaví. Esse percurso organiza a nossa cozinha: salmão, cordeiro, merkén, murta e ervas que guardam a memória do sul, preparados com técnicas de hoje.\n\nNão queremos copiar a paisagem. Cozinhamos com tempo, fazemos nossos molhos em casa e escolhemos ingredientes que contam de onde vêm. A conversa depois da refeição também faz parte da experiência.\n\nEm nosso logo, um pica-pau-de-magalhães, arquiteto do bosque e símbolo de boa sorte, cuida da travessia sem roubar o protagonismo.",
+    "historia_cita": "Nossa cozinha não quer reinventar o sul. Quer prestar homenagem a ele.",
+    "recorrido": [
+      {
+        "lugar": "Argentina",
+        "texto": "Origem e travessia"
+      },
+      {
+        "lugar": "Cordilheira",
+        "texto": "Força e paisagem"
+      },
+      {
+        "lugar": "Vale do rio Puelo",
+        "texto": "Memória e comunidade"
+      },
+      {
+        "lugar": "Estuário de Reloncaví",
+        "texto": "Encontro com o mar"
+      }
+    ],
+    "reservas_titulo": "Reservas",
+    "reservas_texto": "Almoço durante a semana, happy hour ou uma longa refeição de fim de semana. Envie sua solicitação e confirmaremos a mesa por e-mail ou WhatsApp.",
+    "form_nombre": "Nome",
+    "form_email": "E-mail",
+    "form_telefono": "Telefone",
+    "form_fecha": "Data",
+    "form_hora": "Horário",
+    "form_personas": "Pessoas",
+    "form_comentarios": "Comentários (opcional)",
+    "form_enviar": "Solicitar reserva",
+    "form_enviando": "Enviando…",
+    "form_exito": "Recebemos sua solicitação. Confirmaremos a reserva em breve.",
+    "form_error": "Não foi possível enviar a solicitação. Tente novamente ou fale conosco pelo WhatsApp.",
+    "form_grupos": "Mais de {max} pessoas? Fale conosco pelo WhatsApp e montamos a mesa.",
+    "form_whatsapp": "Falar pelo WhatsApp",
+    "footer_texto": "Cozinha do sul do Chile em Santiago.",
+    "footer_equipo": "Acesso da equipe"
+  }
+}
