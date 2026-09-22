@@ -372,6 +372,35 @@
           "visible": true
         }
       ]
+    },
+    {
+      "id": "fondos",
+      "nombre_es": "Fondo",
+      "nombre_en": "Main Dish",
+      "nombre_pt": "Prato Principal",
+      "nota_es": "",
+      "nota_en": "",
+      "nota_pt": "",
+      "platos": [
+        {
+          "nombre": "Carne Asada con Papas Fritas",
+          "desc_es": "Plato insigne de la casa",
+          "desc_en": "Signature Dish",
+          "desc_pt": "Prato da Casa",
+          "precio": "15.900",
+          "etiquetas": [],
+          "visible": true
+        },
+        {
+          "nombre": "Salmón con Papas Fritas",
+          "desc_es": "Plato insigne de la casa.",
+          "desc_en": "Plato insigne de la casa",
+          "desc_pt": "Prato da Casa",
+          "precio": "16.900",
+          "etiquetas": [],
+          "visible": true
+        }
+      ]
     }
   ]
 }
