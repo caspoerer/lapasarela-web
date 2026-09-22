@@ -7,10 +7,10 @@
     "whatsapp": "56994327486",
     "email": "reservas@lapasarela.cl",
     "instagram": "lapasarelacl",
-    "mostrar_precios": false,
+    "mostrar_precios": true,
     "reservas_endpoint": "",
     "horas_reserva": "12:30, 13:00, 13:30, 14:00, 14:30, 15:00, 19:00, 19:30, 20:00, 20:30, 21:00, 21:30, 22:00",
-    "max_personas": 8
+    "max_personas": 16
   },
   "imagenes": {
     "hero": "/assets/img/rio-puelo-2000.webp",
