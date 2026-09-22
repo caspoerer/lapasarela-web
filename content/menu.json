@@ -14,8 +14,10 @@
           "desc_es": "Seis croquetas doradas de jaiba, pensadas como pequeños maderos que invitan a cruzar hacia el sabor del estuario, acompañadas de mayo-limón.",
           "desc_en": "Six golden crab croquettes, shaped like small timbers that invite you across to the flavours of the estuary, served with lemon mayo.",
           "desc_pt": "Seis croquetes dourados de siri, pensados como pequenas toras que convidam a atravessar até o sabor do estuário, com maionese de limão.",
-          "precio": "19.990",
-          "etiquetas": [],
+          "precio": "12.500",
+          "etiquetas": [
+            "para compartir"
+          ],
           "visible": true
         },
         {
@@ -23,8 +25,10 @@
           "desc_es": "Salmón y camarón se encuentran en una leche de tigre cítrica: dos orillas en un mismo plato, fresco y vibrante.",
           "desc_en": "Salmon and shrimp meet in a citrus leche de tigre: two riverbanks on one plate, fresh and vibrant.",
           "desc_pt": "Salmão e camarão se encontram em um leite de tigre cítrico: duas margens no mesmo prato, fresco e vibrante.",
-          "precio": "19.990",
-          "etiquetas": [],
+          "precio": "12.500",
+          "etiquetas": [
+            "para compartir"
+          ],
           "visible": true
         },
         {
@@ -32,8 +36,10 @@
           "desc_es": "Mechada de cordero envuelta en masa dorada; una receta de fuego y territorio que cruza directo desde la cordillera hasta la mesa.",
           "desc_en": "Pulled lamb wrapped in golden pastry; a recipe of fire and land that crosses straight from the Andes to your table.",
           "desc_pt": "Cordeiro desfiado envolto em massa dourada; uma receita de fogo e território que atravessa direto da cordilheira até a mesa.",
-          "precio": "19.990",
-          "etiquetas": [],
+          "precio": "12.500",
+          "etiquetas": [
+            "para compartir"
+          ],
           "visible": true
         },
         {
@@ -41,8 +47,10 @@
           "desc_es": "Seis empanaditas de carne, hechas para compartir y para abrir el primer cruce de la mesa.",
           "desc_en": "Six small beef empanadas, made for sharing and for the table's first crossing.",
           "desc_pt": "Seis pequenas empanadas de carne, feitas para compartilhar e abrir a primeira travessia da mesa.",
-          "precio": "19.990",
-          "etiquetas": [],
+          "precio": "10.900",
+          "etiquetas": [
+            "para compartir"
+          ],
           "visible": true
         },
         {
@@ -50,8 +58,10 @@
           "desc_es": "Seis bocados de brisket en masa, con el carácter ahumado de la cocción lenta y el espíritu de una pasarela que conecta sabores.",
           "desc_en": "Six bites of brisket in pastry, with the smoky character of slow cooking and the spirit of a bridge that connects flavours.",
           "desc_pt": "Seis bocados de brisket na massa, com o caráter defumado do cozimento lento e o espírito de uma passarela que conecta sabores.",
-          "precio": "19.990",
-          "etiquetas": [],
+          "precio": "10.900",
+          "etiquetas": [
+            "para compartir"
+          ],
           "visible": true
         },
         {
@@ -59,8 +69,10 @@
           "desc_es": "Camarones al pil-pil con el carácter intenso de un remolino de río: calientes, aromáticos y pensados para compartir.",
           "desc_en": "Shrimp al pil-pil with the intensity of a river eddy: hot, aromatic and made for sharing.",
           "desc_pt": "Camarões ao pil-pil com a intensidade de um redemoinho de rio: quentes, aromáticos e pensados para compartilhar.",
-          "precio": "19.990",
-          "etiquetas": [],
+          "precio": "11.900",
+          "etiquetas": [
+            "para compartir"
+          ],
           "visible": true
         },
         {
@@ -68,9 +80,10 @@
           "desc_es": "Champiñones salteados con mantequilla y vino blanco; un bocado cálido y profundo inspirado en los aromas del bosque.",
           "desc_en": "Mushrooms sautéed in butter and white wine; a warm, deep bite inspired by the scents of the forest.",
           "desc_pt": "Cogumelos salteados na manteiga e vinho branco; um bocado quente e profundo inspirado nos aromas do bosque.",
-          "precio": "19.990",
+          "precio": "9.900",
           "etiquetas": [
-            "vegetariano"
+            "vegetariano",
+            "para compartir"
           ],
           "visible": true
         },
@@ -79,9 +92,10 @@
           "desc_es": "Provoleta al orégano con tostadas, fundida como en un fogón sureño y servida para alargar la conversación.",
           "desc_en": "Oregano provoleta with toasts, melted as if over a southern hearth and served to stretch the conversation.",
           "desc_pt": "Provoleta ao orégano com torradas, derretida como num fogão a lenha do sul e servida para prolongar a conversa.",
-          "precio": "19.990",
+          "precio": "10.500",
           "etiquetas": [
-            "vegetariano"
+            "vegetariano",
+            "para compartir"
           ],
           "visible": true
         },
@@ -90,8 +104,10 @@
           "desc_es": "Tres brochetas de camarón con merquén: pequeñas brasas de sabor que llevan el sur directo a la mesa.",
           "desc_en": "Three shrimp skewers with merkén: small embers of flavour that bring the south straight to the table.",
           "desc_pt": "Três espetinhos de camarão com merkén: pequenas brasas de sabor que levam o sul direto à mesa.",
-          "precio": "19.990",
-          "etiquetas": [],
+          "precio": "10.500",
+          "etiquetas": [
+            "para compartir"
+          ],
           "visible": true
         },
         {
@@ -99,8 +115,10 @@
           "desc_es": "Papas fritas, queso fundido, tocino y cebolla acaramelizada: un cruce abundante entre picada chilena y cocina de autor.",
           "desc_en": "Fries, melted cheese, bacon and caramelised onion: a generous meeting of Chilean picada and chef-driven cooking.",
           "desc_pt": "Batatas fritas, queijo derretido, bacon e cebola caramelizada: um encontro farto entre o petisco chileno e a cozinha autoral.",
-          "precio": "19.990",
-          "etiquetas": [],
+          "precio": "5.500",
+          "etiquetas": [
+            "para compartir"
+          ],
           "visible": true
         },
         {
@@ -108,19 +126,22 @@
           "desc_es": "Edamame con trufa y sal de merquén: frescura, tierra y un toque ahumado en un solo recorrido.",
           "desc_en": "Edamame with truffle and merkén salt: freshness, earth and a smoky touch in a single journey.",
           "desc_pt": "Edamame com trufa e sal de merkén: frescor, terra e um toque defumado num só percurso.",
-          "precio": "19.990",
+          "precio": "6.500",
           "etiquetas": [
-            "vegetariano"
+            "vegetariano",
+            "para compartir"
           ],
           "visible": true
         },
         {
           "nombre": "Conchas del Estuario",
-          "desc_es": "",
-          "desc_en": "",
-          "desc_pt": "",
-          "precio": "19.990",
-          "etiquetas": [],
+          "desc_es": "Ostiones a la parmesana",
+          "desc_en": "Parmesan scallops",
+          "desc_pt": "Vieiras ao parmesão",
+          "precio": "13.500",
+          "etiquetas": [
+            "para compartir"
+          ],
           "visible": true
         },
         {
@@ -128,8 +149,10 @@
           "desc_es": "Reineta crujiente con salsa tártara; una versión sureña de un clásico que llega a La Pasarela con identidad propia.",
           "desc_en": "Crispy reineta (southern pomfret) with tartar sauce; a southern take on a classic, with an identity of its own.",
           "desc_pt": "Reineta crocante com molho tártaro; uma versão sulista de um clássico, com identidade própria.",
-          "precio": "19.990",
-          "etiquetas": [],
+          "precio": "12.900",
+          "etiquetas": [
+            "para compartir"
+          ],
           "visible": true
         }
       ]
@@ -148,8 +171,10 @@
           "desc_es": "Salmón fresco, tostadas, palta y sésamo: una composición que sigue el movimiento del río, ligera, limpia y llena de textura.",
           "desc_en": "Fresh salmon, toasts, avocado and sesame: a composition that follows the river's flow, light, clean and full of texture.",
           "desc_pt": "Salmão fresco, torradas, abacate e gergelim: uma composição que segue o movimento do rio, leve, limpa e cheia de textura.",
-          "precio": "19.990",
-          "etiquetas": [],
+          "precio": "12.900",
+          "etiquetas": [
+            "para compartir"
+          ],
           "visible": true
         },
         {
@@ -157,8 +182,10 @@
           "desc_es": "Posta negra, yema y pepinillos en un equilibrio profundo y fresco, como un encuentro entre bosque, fuego y río.",
           "desc_en": "Beef (posta negra), egg yolk and pickles in a deep, fresh balance, like a meeting of forest, fire and river.",
           "desc_pt": "Carne bovina (posta negra), gema e pepinos em conserva em um equilíbrio profundo e fresco, como um encontro entre bosque, fogo e rio.",
-          "precio": "19.990",
-          "etiquetas": [],
+          "precio": "11.900",
+          "etiquetas": [
+            "para compartir"
+          ],
           "visible": true
         },
         {
@@ -166,9 +193,10 @@
           "desc_es": "Una alternativa vegetal que lleva la lógica del sur a la mesa: frescura, tierra y acidez en un recorrido lleno de matices.",
           "desc_en": "A plant-based alternative that brings the logic of the south to the table: freshness, earth and acidity, full of nuance.",
           "desc_pt": "Uma alternativa vegetal que leva a lógica do sul à mesa: frescor, terra e acidez em um percurso cheio de nuances.",
-          "precio": "19.990",
+          "precio": "9.500",
           "etiquetas": [
-            "vegetariano"
+            "vegetariano",
+            "para compartir"
           ],
           "visible": true
         }
@@ -188,8 +216,10 @@
           "desc_es": "Bocados sobre masa que navegan entre brisket, palta y textura crujiente; pequeños cruces inspirados en las aguas del Puelo.",
           "desc_en": "Bites on our dough that sail between brisket, avocado and crunch; small crossings inspired by the waters of the Puelo.",
           "desc_pt": "Bocados sobre massa que navegam entre brisket, abacate e textura crocante; pequenas travessias inspiradas nas águas do Puelo.",
-          "precio": "19.990",
-          "etiquetas": [],
+          "precio": "13.500",
+          "etiquetas": [
+            "para compartir"
+          ],
           "visible": true
         },
         {
@@ -197,8 +227,10 @@
           "desc_es": "Masa crujiente con churrasca y camarón: tierra y mar encontrándose en una misma balsa.",
           "desc_en": "Crisp dough with churrasca and shrimp: land and sea meeting on the same raft.",
           "desc_pt": "Massa crocante com churrasca e camarão: terra e mar se encontrando na mesma balsa.",
-          "precio": "19.990",
-          "etiquetas": [],
+          "precio": "13.500",
+          "etiquetas": [
+            "para compartir"
+          ],
           "visible": true
         },
         {
@@ -206,9 +238,10 @@
           "desc_es": "Masa, churrasca y una combinación vegetal de champiñón y queso vegano: un cruce de sabores pensado para todos.",
           "desc_en": "Dough, churrasca and a plant-based mix of mushroom and vegan cheese: a crossing of flavours made for everyone.",
           "desc_pt": "Massa, churrasca e uma combinação vegetal de cogumelo e queijo vegano: um encontro de sabores pensado para todos.",
-          "precio": "19.990",
+          "precio": "13.500",
           "etiquetas": [
-            "vegano"
+            "vegano",
+            "para compartir"
           ],
           "visible": true
         },
@@ -217,8 +250,10 @@
           "desc_es": "Masa crujiente, prosciutto y un juego de texturas que convierte cada bocado en un pequeño viaje.",
           "desc_en": "Crisp dough, prosciutto and a play of textures that turns every bite into a small journey.",
           "desc_pt": "Massa crocante, presunto cru e um jogo de texturas que transforma cada bocado em uma pequena viagem.",
-          "precio": "19.990",
-          "etiquetas": [],
+          "precio": "13.500",
+          "etiquetas": [
+            "para compartir"
+          ],
           "visible": true
         }
       ]
@@ -237,7 +272,7 @@
           "desc_es": "La burger smash que representa el lado más cotidiano y querido de la casa: simple, generosa y hecha para volver a cruzar.",
           "desc_en": "The smash burger that stands for the most everyday, best-loved side of the house: simple, generous and made to come back for.",
           "desc_pt": "O smash burger que representa o lado mais cotidiano e querido da casa: simples, generoso e feito para voltar.",
-          "precio": "19.990",
+          "precio": "10.300",
           "etiquetas": [],
           "visible": true
         },
@@ -246,7 +281,7 @@
           "desc_es": "Burger smash BBQ con bacon, aros de cebolla y queso americano: humo, crocante y dulzor en un cruce lleno de carácter.",
           "desc_en": "BBQ smash burger with bacon, onion rings and American cheese: smoke, crunch and sweetness, full of character.",
           "desc_pt": "Smash burger BBQ com bacon, anéis de cebola e queijo americano: fumaça, crocância e doçura, cheio de caráter.",
-          "precio": "19.990",
+          "precio": "10.900",
           "etiquetas": [],
           "visible": true
         },
@@ -255,7 +290,7 @@
           "desc_es": "Queso azul, cebolla y champiñones sobre una burger smash de carácter; un encuentro profundo entre tierra, intensidad y suavidad.",
           "desc_en": "Blue cheese, onion and mushrooms on a bold smash burger; a deep meeting of earth, intensity and softness.",
           "desc_pt": "Queijo azul, cebola e cogumelos sobre um smash burger marcante; um encontro profundo entre terra, intensidade e suavidade.",
-          "precio": "19.990",
+          "precio": "11.900",
           "etiquetas": [],
           "visible": true
         },
@@ -264,7 +299,7 @@
           "desc_es": "Burger smash a lo pobre con queso gauda, pepinillo y salsa La Pasarela: un clásico chileno cruzado por nuestra propia identidad.",
           "desc_en": "Smash burger a lo pobre (fried egg, onion and fries) with gouda, pickles and our house sauce: a Chilean classic crossed with our own identity.",
           "desc_pt": "Smash burger a lo pobre (ovo frito, cebola e batata frita) com queijo gouda, pepino em conserva e molho La Pasarela: um clássico chileno com a nossa identidade.",
-          "precio": "19.990",
+          "precio": "11.500",
           "etiquetas": [],
           "visible": true
         }
@@ -284,7 +319,7 @@
           "desc_es": "Lomo saltado en posta negra servido en ciabatta: una verdadera fusión donde la cocina peruana cruza con el espíritu de La Pasarela.",
           "desc_en": "Lomo saltado made with posta negra beef, served on ciabatta: a true fusion where Peruvian cooking meets the spirit of La Pasarela.",
           "desc_pt": "Lomo saltado de posta negra servido na ciabatta: uma verdadeira fusão em que a cozinha peruana encontra o espírito de La Pasarela.",
-          "precio": "19.990",
+          "precio": "12.500",
           "etiquetas": [],
           "visible": true
         },
@@ -293,7 +328,7 @@
           "desc_es": "Pescado frito en brioche de papa con mayo-limón: crujiente por fuera, fresco por dentro y directo desde la orilla.",
           "desc_en": "Fried fish on a potato brioche with lemon mayo: crisp outside, fresh inside, straight from the shore.",
           "desc_pt": "Peixe frito no brioche de batata com maionese de limão: crocante por fora, fresco por dentro e direto da margem.",
-          "precio": "19.990",
+          "precio": "11.500",
           "etiquetas": [],
           "visible": true
         },
@@ -302,7 +337,7 @@
           "desc_es": "Pollo frito, coleslaw y brioche de papa en un cruce de texturas que combina lo reconfortante con lo fresco.",
           "desc_en": "Fried chicken, coleslaw and potato brioche: a crossing of textures that pairs comfort with freshness.",
           "desc_pt": "Frango frito, coleslaw e brioche de batata em um encontro de texturas que combina o reconfortante com o fresco.",
-          "precio": "19.990",
+          "precio": "10.500",
           "etiquetas": [],
           "visible": true
         },
@@ -311,7 +346,7 @@
           "desc_es": "Salmón ahumado en frío, verdes, queso crema y salsa sobre ciabatta: suave, fresco y delicadamente ahumado.",
           "desc_en": "Cold-smoked salmon, greens, cream cheese and sauce on ciabatta: soft, fresh and delicately smoky.",
           "desc_pt": "Salmão defumado a frio, folhas verdes, cream cheese e molho na ciabatta: suave, fresco e delicadamente defumado.",
-          "precio": "19.990",
+          "precio": "11.900",
           "etiquetas": [],
           "visible": true
         },
@@ -320,7 +355,7 @@
           "desc_es": "Churrasco de posta negra con tomate, palta y mayo; un clásico que cruza desde la ciudad hacia la identidad de La Pasarela.",
           "desc_en": "Thin-sliced posta negra steak with tomato, avocado and mayo; a city classic that crosses over to La Pasarela's identity.",
           "desc_pt": "Churrasco de posta negra com tomate, abacate e maionese; um clássico da cidade que atravessa até a identidade de La Pasarela.",
-          "precio": "19.990",
+          "precio": "9.500",
           "etiquetas": [],
           "visible": true
         },
@@ -329,7 +364,36 @@
           "desc_es": "Pollo, tomate, palta y mayo sobre ciabatta rústica: familiar, generoso y con el sello de la casa.",
           "desc_en": "Chicken, tomato, avocado and mayo on rustic ciabatta: familiar, generous and with the house signature.",
           "desc_pt": "Frango, tomate, abacate e maionese na ciabatta rústica: familiar, generoso e com a marca da casa.",
-          "precio": "19.990",
+          "precio": "9.500",
+          "etiquetas": [],
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "fondos",
+      "nombre_es": "Fondo",
+      "nombre_en": "Main Dish",
+      "nombre_pt": "Prato Principal",
+      "nota_es": "",
+      "nota_en": "",
+      "nota_pt": "",
+      "platos": [
+        {
+          "nombre": "Carne Asada con Papas Fritas",
+          "desc_es": "Plato insigne de la casa",
+          "desc_en": "Signature Dish",
+          "desc_pt": "Prato da Casa",
+          "precio": "15.900",
+          "etiquetas": [],
+          "visible": true
+        },
+        {
+          "nombre": "Salmón con Papas Fritas",
+          "desc_es": "Plato insigne de la casa.",
+          "desc_en": "Plato insigne de la casa",
+          "desc_pt": "Prato da Casa",
+          "precio": "16.900",
           "etiquetas": [],
           "visible": true
         }
@@ -368,35 +432,6 @@
           "desc_en": "",
           "desc_pt": "",
           "precio": "2.500",
-          "etiquetas": [],
-          "visible": true
-        }
-      ]
-    },
-    {
-      "id": "fondos",
-      "nombre_es": "Fondo",
-      "nombre_en": "Main Dish",
-      "nombre_pt": "Prato Principal",
-      "nota_es": "",
-      "nota_en": "",
-      "nota_pt": "",
-      "platos": [
-        {
-          "nombre": "Carne Asada con Papas Fritas",
-          "desc_es": "Plato insigne de la casa",
-          "desc_en": "Signature Dish",
-          "desc_pt": "Prato da Casa",
-          "precio": "15.900",
-          "etiquetas": [],
-          "visible": true
-        },
-        {
-          "nombre": "Salmón con Papas Fritas",
-          "desc_es": "Plato insigne de la casa.",
-          "desc_en": "Plato insigne de la casa",
-          "desc_pt": "Prato da Casa",
-          "precio": "16.900",
           "etiquetas": [],
           "visible": true
         }
