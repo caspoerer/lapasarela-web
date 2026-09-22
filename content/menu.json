@@ -334,6 +334,44 @@
           "visible": true
         }
       ]
+    },
+    {
+      "id": "bebidas",
+      "nombre_es": "Bebidas",
+      "nombre_en": "Soft Drinks",
+      "nombre_pt": "Refrigerantes",
+      "nota_es": "",
+      "nota_en": "",
+      "nota_pt": "",
+      "platos": [
+        {
+          "nombre": "Coca-Cola",
+          "desc_es": "",
+          "desc_en": "",
+          "desc_pt": "",
+          "precio": "2500",
+          "etiquetas": [],
+          "visible": true
+        },
+        {
+          "nombre": "Fanta",
+          "desc_es": "",
+          "desc_en": "",
+          "desc_pt": "",
+          "precio": "2500",
+          "etiquetas": [],
+          "visible": true
+        },
+        {
+          "nombre": "Sprite",
+          "desc_es": "",
+          "desc_en": "",
+          "desc_pt": "",
+          "precio": "2500",
+          "etiquetas": [],
+          "visible": true
+        }
+      ]
     }
   ]
 }
