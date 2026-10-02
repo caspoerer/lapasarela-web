@@ -9,7 +9,7 @@
   --rojo-carpintero: #BB2524;
   --tinta: #141313;
 
-  --papel: #EFEEEB;          /* perla aclarado para superficies de lectura */
+  --papel: #FBF8F3;          /* perla aclarado para superficies de lectura */
   --texto-suave: #4a4745;
 
   --f-titulo: "Montserrat", "Helvetica Neue", Arial, sans-serif;
@@ -28,7 +28,7 @@ html { scroll-behavior: smooth; scroll-padding-top: calc(84px + env(safe-area-in
 
 body {
   margin: 0;
-  background: var(--perla);
+  background: #F4EDE3;  
   color: var(--tinta);
   font-family: var(--f-texto);
   font-size: 1.6rem;           /* Lateef tiene ojo pequeño: se compensa con tamaño */
@@ -52,7 +52,7 @@ h2 { font-size: clamp(2rem, 4.2vw, 3.1rem); color: var(--azul-profundo); }
   position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20;
   display: flex; align-items: center; gap: 1rem clamp(1rem, 3vw, 2.5rem);
   padding: .7rem var(--gut);
-  background: var(--perla);
+  background: #F4EDE3;
   border-bottom: 1px solid rgba(20,19,19,.08);
 }
 .brand { margin-right: auto; }
