@@ -132,18 +132,7 @@
             "para compartir"
           ],
           "visible": true
-        }
-      ]
-    },
-    {
-      "id": "tartar",
-      "nombre_es": "Tartar",
-      "nombre_en": "Tartare",
-      "nombre_pt": "Tartar",
-      "nota_es": "",
-      "nota_en": "",
-      "nota_pt": "",
-      "platos": [
+        },
         {
           "nombre": "Tartar de Río",
           "desc_es": "Salmón fresco, tostadas, palta y sésamo: una composición que sigue el movimiento del río, ligera, limpia y llena de textura.",
@@ -238,9 +227,9 @@
     },
     {
       "id": "burgers",
-      "nombre_es": "Burgers",
-      "nombre_en": "Burgers",
-      "nombre_pt": "Burgers",
+      "nombre_es": "Burgers y Sánguches",
+      "nombre_en": "Burgers and Sandwiches",
+      "nombre_pt": "Burgers e Sanduíches",
       "nota_es": "",
       "nota_en": "",
       "nota_pt": "",
@@ -280,18 +269,7 @@
           "precio": "11.500",
           "etiquetas": [],
           "visible": true
-        }
-      ]
-    },
-    {
-      "id": "sanguches",
-      "nombre_es": "Sánguches",
-      "nombre_en": "Sandwiches",
-      "nombre_pt": "Sanduíches",
-      "nota_es": "",
-      "nota_en": "",
-      "nota_pt": "",
-      "platos": [
+        },
         {
           "nombre": "Cruce de Dos Mundos",
           "desc_es": "Lomo saltado en posta negra servido en ciabatta: una verdadera fusión donde la cocina peruana cruza con el espíritu de La Pasarela.",
@@ -420,26 +398,6 @@
           "desc_pt": "Camarões, abacate, tomates-cereja, ricota e gergelim: uma salada leve e luminosa, com o mar como protagonista.",
           "precio": "11.990",
           "etiquetas": [],
-          "visible": true
-        },
-        {
-          "nombre": "Valle Dorado",
-          "desc_es": "Quínoa real, pollo, tomates cherry y palta con aderezo de mostaza y miel: nutritiva, fresca y con un toque dulce.",
-          "desc_en": "Royal quinoa, chicken, cherry tomatoes and avocado with honey-mustard dressing: nourishing, fresh and slightly sweet.",
-          "desc_pt": "Quinoa real, frango, tomates-cereja e abacate com molho de mostarda e mel: nutritiva, fresca e com um toque doce.",
-          "precio": "11.990",
-          "etiquetas": [],
-          "visible": true
-        },
-        {
-          "nombre": "Huerta de Orilla",
-          "desc_es": "Caprese: tomate, mozzarella fresca, albahaca y aceto. Un cruce limpio y luminoso de huerta y buena mesa.",
-          "desc_en": "Caprese: tomato, fresh mozzarella, basil and balsamic. A clean, bright meeting of garden and good food.",
-          "desc_pt": "Caprese: tomate, muçarela fresca, manjericão e aceto balsâmico. Um encontro limpo e luminoso da horta com a boa mesa.",
-          "precio": "11.990",
-          "etiquetas": [
-            "vegetariano"
-          ],
           "visible": true
         }
       ]
