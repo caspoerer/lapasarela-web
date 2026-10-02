@@ -378,6 +378,73 @@
       ]
     },
     {
+      "id": "ensaladas",
+      "nombre_es": "Ensaladas",
+      "nombre_en": "Salads",
+      "nombre_pt": "Saladas",
+      "nota_es": "",
+      "nota_en": "",
+      "nota_pt": "",
+      "platos": [
+        {
+          "nombre": "Sendero Verde",
+          "desc_es": "César con pollo: mix de verdes, crutones, parmesano y salsa césar. Frescura y textura en un recorrido simple y bien equilibrado.",
+          "desc_en": "Chicken Caesar: mixed greens, croutons, parmesan and Caesar dressing. Freshness and texture in a simple, well-balanced journey.",
+          "desc_pt": "Caesar com frango: mix de folhas, croutons, parmesão e molho caesar. Frescor e textura em um percurso simples e equilibrado.",
+          "precio": "11.990",
+          "etiquetas": [],
+          "visible": true
+        },
+        {
+          "nombre": "Sendero de Estuario",
+          "desc_es": "César con camarones: mix de verdes, crutones, parmesano y salsa césar. La clásica toma una ruta más fresca y marina.",
+          "desc_en": "Shrimp Caesar: mixed greens, croutons, parmesan and Caesar dressing. The classic takes a fresher, coastal route.",
+          "desc_pt": "Caesar com camarões: mix de folhas, croutons, parmesão e molho caesar. A clássica segue uma rota mais fresca e marinha.",
+          "precio": "11.990",
+          "etiquetas": [],
+          "visible": true
+        },
+        {
+          "nombre": "Otoño del Sur",
+          "desc_es": "Peras caramelizadas, queso azul, mix de verdes, nueces, jamón serrano y aceto: dulce, salado y profundo como un paisaje de otoño.",
+          "desc_en": "Caramelised pears, blue cheese, mixed greens, walnuts, serrano ham and balsamic: sweet, salty and deep like an autumn landscape.",
+          "desc_pt": "Peras caramelizadas, queijo azul, mix de folhas, nozes, presunto serrano e aceto balsâmico: doce, salgado e profundo como uma paisagem de outono.",
+          "precio": "11.990",
+          "etiquetas": [],
+          "visible": true
+        },
+        {
+          "nombre": "Marea Clara",
+          "desc_es": "Camarones, palta, tomates cherry, ricota y sésamo: una ensalada liviana y luminosa, con el mar como protagonista.",
+          "desc_en": "Shrimp, avocado, cherry tomatoes, ricotta and sesame: a light, bright salad with the sea at its heart.",
+          "desc_pt": "Camarões, abacate, tomates-cereja, ricota e gergelim: uma salada leve e luminosa, com o mar como protagonista.",
+          "precio": "11.990",
+          "etiquetas": [],
+          "visible": true
+        },
+        {
+          "nombre": "Valle Dorado",
+          "desc_es": "Quínoa real, pollo, tomates cherry y palta con aderezo de mostaza y miel: nutritiva, fresca y con un toque dulce.",
+          "desc_en": "Royal quinoa, chicken, cherry tomatoes and avocado with honey-mustard dressing: nourishing, fresh and slightly sweet.",
+          "desc_pt": "Quinoa real, frango, tomates-cereja e abacate com molho de mostarda e mel: nutritiva, fresca e com um toque doce.",
+          "precio": "11.990",
+          "etiquetas": [],
+          "visible": true
+        },
+        {
+          "nombre": "Huerta de Orilla",
+          "desc_es": "Caprese: tomate, mozzarella fresca, albahaca y aceto. Un cruce limpio y luminoso de huerta y buena mesa.",
+          "desc_en": "Caprese: tomato, fresh mozzarella, basil and balsamic. A clean, bright meeting of garden and good food.",
+          "desc_pt": "Caprese: tomate, muçarela fresca, manjericão e aceto balsâmico. Um encontro limpo e luminoso da horta com a boa mesa.",
+          "precio": "11.990",
+          "etiquetas": [
+            "vegetariano"
+          ],
+          "visible": true
+        }
+      ]
+    },
+    {
       "id": "postres",
       "nombre_es": "Postres",
       "nombre_en": "Desserts",
