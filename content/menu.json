@@ -387,7 +387,7 @@
           "desc_es": "Brownie tibio con helado de vainilla: chocolate intenso y frío cremoso, como un pequeño refugio dulce entre árboles.",
           "desc_en": "Warm brownie with vanilla ice cream: intense chocolate and cold creaminess, like a small sweet refuge among the trees.",
           "desc_pt": "Brownie morno com sorvete de baunilha: chocolate intenso e frio cremoso, como um pequeno refúgio doce entre as árvores.",
-          "precio": "5.500",
+          "precio": "5.000",
           "etiquetas": [
             "vegetariano"
           ],
@@ -398,7 +398,7 @@
           "desc_es": "Churros calientes con chocolate y dulce de leche: el final perfecto para una sobremesa que no quiere terminar.",
           "desc_en": "Hot churros with chocolate and dulce de leche: the perfect ending for a meal nobody wants to end.",
           "desc_pt": "Churros quentes com chocolate e doce de leite: o final perfeito para uma conversa à mesa que ninguém quer terminar.",
-          "precio": "5.500",
+          "precio": "6.500",
           "etiquetas": [
             "vegetariano",
             "para compartir"
@@ -410,10 +410,226 @@
           "desc_es": "Copa de helado para cerrar el viaje. Sabores: vainilla, chocolate y berries.",
           "desc_en": "Ice cream cup to end the journey. Flavours: vanilla, chocolate and berries.",
           "desc_pt": "Taça de sorvete para fechar a viagem. Sabores: baunilha, chocolate e frutas vermelhas.",
-          "precio": "5.500",
+          "precio": "6.500",
           "etiquetas": [
             "vegetariano"
           ],
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "tragos",
+      "nombre_es": "Tragos",
+      "nombre_en": "Cocktails",
+      "nombre_pt": "Drinks",
+      "nota_es": "Solo para mayores de 18 años.",
+      "nota_en": "For guests aged 18 and over.",
+      "nota_pt": "Somente para maiores de 18 anos.",
+      "platos": [
+        {
+          "nombre": "Sour de La Pasarela",
+          "desc_es": "Pisco quebranta, limón, goma, clara y angostura.",
+          "desc_en": "Quebranta pisco, lemon, sugar syrup, egg white and angostura.",
+          "desc_pt": "Pisco quebranta, limão, xarope de açúcar, clara e angostura.",
+          "precio": "5.500",
+          "etiquetas": [],
+          "visible": true,
+          "delivery": false
+        },
+        {
+          "nombre": "Sour del Puelo",
+          "desc_es": "Pisco chileno, limón de Pica, goma y angostura.",
+          "desc_en": "Chilean pisco, Pica lime, sugar syrup and angostura.",
+          "desc_pt": "Pisco chileno, limão de Pica, xarope de açúcar e angostura.",
+          "precio": "4.800",
+          "etiquetas": [],
+          "visible": true,
+          "delivery": false
+        },
+        {
+          "nombre": "Pasarela 35°",
+          "desc_es": "Pisco 35° Alto del Carmen y Coca-Cola.",
+          "desc_en": "35° pisco and Coca-Cola.",
+          "desc_pt": "Pisco 35° e Coca-Cola.",
+          "precio": "5.500",
+          "etiquetas": [],
+          "visible": true,
+          "delivery": false
+        },
+        {
+          "nombre": "Pasarela 40°",
+          "desc_es": "Pisco reservado 40°, Coca-Cola y limón.",
+          "desc_en": "40° reserve pisco, Coca-Cola and lemon.",
+          "desc_pt": "Pisco reservado 40°, Coca-Cola e limão.",
+          "precio": "6.000",
+          "etiquetas": [],
+          "visible": true,
+          "delivery": false
+        },
+        {
+          "nombre": "Piscola La Pasarela",
+          "desc_es": "Pisco reservado 40° Mistral, Coca-Cola y limón.",
+          "desc_en": "40° reserve pisco, Coca-Cola and lemon.",
+          "desc_pt": "Pisco reservado 40°, Coca-Cola e limão.",
+          "precio": "6.000",
+          "etiquetas": [],
+          "visible": true,
+          "delivery": false
+        },
+        {
+          "nombre": "Cruce Libre",
+          "desc_es": "Ron blanco, Coca-Cola y limón.",
+          "desc_en": "White rum, Coca-Cola and lime.",
+          "desc_pt": "Rum branco, Coca-Cola e limão.",
+          "precio": "6.500",
+          "etiquetas": [],
+          "visible": true,
+          "delivery": false
+        },
+        {
+          "nombre": "Carpintero Rojo",
+          "desc_es": "Johnnie Walker Red sobre hielo.",
+          "desc_en": "Johnnie Walker Red on the rocks.",
+          "desc_pt": "Johnnie Walker Red com gelo.",
+          "precio": "6.800",
+          "etiquetas": [],
+          "visible": true,
+          "delivery": false
+        },
+        {
+          "nombre": "Golpe del Carpintero",
+          "desc_es": "Jack Daniel's, limón, goma, clara y angostura.",
+          "desc_en": "Jack Daniel's, lemon, sugar syrup, egg white and angostura.",
+          "desc_pt": "Jack Daniel's, limão, xarope de açúcar, clara e angostura.",
+          "precio": "6.500",
+          "etiquetas": [],
+          "visible": true,
+          "delivery": false
+        },
+        {
+          "nombre": "Atardecer del Estuario",
+          "desc_es": "Aperol, espumante brut, soda y naranja.",
+          "desc_en": "Aperol, brut sparkling wine, soda and orange.",
+          "desc_pt": "Aperol, espumante brut, água com gás e laranja.",
+          "precio": "6.500",
+          "etiquetas": [],
+          "visible": true,
+          "delivery": false
+        },
+        {
+          "nombre": "Bruma del Estuario",
+          "desc_es": "Ramazzotti y naranja.",
+          "desc_en": "Ramazzotti and orange.",
+          "desc_pt": "Ramazzotti e laranja.",
+          "precio": "6.500",
+          "etiquetas": [],
+          "visible": true,
+          "delivery": false
+        },
+        {
+          "nombre": "Tónica del Río",
+          "desc_es": "Ramazzotti, tónica y naranja.",
+          "desc_en": "Ramazzotti, tonic and orange.",
+          "desc_pt": "Ramazzotti, tônica e laranja.",
+          "precio": "5.500",
+          "etiquetas": [],
+          "visible": true,
+          "delivery": false
+        },
+        {
+          "nombre": "Bruma de La Pasarela",
+          "desc_es": "Beefeater, tónica y limón.",
+          "desc_en": "Beefeater, tonic and lemon.",
+          "desc_pt": "Beefeater, tônica e limão.",
+          "precio": "5.500",
+          "etiquetas": [],
+          "visible": true,
+          "delivery": false
+        },
+        {
+          "nombre": "Bosque de Albahaca",
+          "desc_es": "Hendrick's, albahaca, limón y goma.",
+          "desc_en": "Hendrick's, basil, lemon and sugar syrup.",
+          "desc_pt": "Hendrick's, manjericão, limão e xarope de açúcar.",
+          "precio": "5.500",
+          "etiquetas": [],
+          "visible": true,
+          "delivery": false
+        },
+        {
+          "nombre": "Noche del Puelo",
+          "desc_es": "Licor 43 y espresso sobre hielo.",
+          "desc_en": "Licor 43 and espresso on ice.",
+          "desc_pt": "Licor 43 e espresso com gelo.",
+          "precio": "5.500",
+          "etiquetas": [],
+          "visible": true,
+          "delivery": false
+        }
+      ]
+    },
+    {
+      "id": "bebidas",
+      "nombre_es": "Bebidas",
+      "nombre_en": "Soft Drinks",
+      "nombre_pt": "Refrigerantes",
+      "nota_es": "",
+      "nota_en": "",
+      "nota_pt": "",
+      "platos": [
+        {
+          "nombre": "Coca-Cola",
+          "desc_es": "",
+          "desc_en": "",
+          "desc_pt": "",
+          "precio": "2.500",
+          "etiquetas": [],
+          "visible": true
+        },
+        {
+          "nombre": "Fanta",
+          "desc_es": "",
+          "desc_en": "",
+          "desc_pt": "",
+          "precio": "2.500",
+          "etiquetas": [],
+          "visible": true
+        },
+        {
+          "nombre": "Sprite",
+          "desc_es": "",
+          "desc_en": "",
+          "desc_pt": "",
+          "precio": "2.500",
+          "etiquetas": [],
+          "visible": true
+        },
+        {
+          "nombre": "Perrier",
+          "desc_es": "Agua mineral con gas, 330 cc.",
+          "desc_en": "Sparkling mineral water, 330 ml.",
+          "desc_pt": "Água mineral com gás, 330 ml.",
+          "precio": "3.400",
+          "etiquetas": [],
+          "visible": true
+        },
+        {
+          "nombre": "Cachantun con gas",
+          "desc_es": "Agua mineral con gas, 600 cc.",
+          "desc_en": "Sparkling mineral water, 600 ml.",
+          "desc_pt": "Água mineral com gás, 600 ml.",
+          "precio": "2.400",
+          "etiquetas": [],
+          "visible": true
+        },
+        {
+          "nombre": "Cachantun sin gas",
+          "desc_es": "Agua mineral sin gas, 600 cc.",
+          "desc_en": "Still mineral water, 600 ml.",
+          "desc_pt": "Água mineral sem gás, 600 ml.",
+          "precio": "2.400",
+          "etiquetas": [],
           "visible": true
         }
       ]
