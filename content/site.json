@@ -8,7 +8,7 @@
     "email": "reservas@lapasarela.cl",
     "instagram": "lapasarelacl",
     "mostrar_precios": true,
-    "reservas_endpoint": "",
+    "reservas_endpoint": "https://script.google.com/macros/s/AKfycbyCjvtyiDN5zmO7NqggXTXzjF-3MO8XTXWQaJV_Rn0lXCH4hNc1D2DcEtzmsEVDoaOBMw/exec",
     "horas_reserva": "12:30, 13:00, 13:30, 14:00, 14:30, 15:00, 19:00, 19:30, 20:00, 20:30, 21:00, 21:30, 22:00",
     "max_personas": 16
   },
