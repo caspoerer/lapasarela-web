@@ -363,11 +363,11 @@
           "visible": true
         },
         {
-          "nombre": "Marea Clara",
-          "desc_es": "Camarones, palta, tomates cherry, ricota y sésamo: una ensalada liviana y luminosa, con el mar como protagonista.",
-          "desc_en": "Shrimp, avocado, cherry tomatoes, ricotta and sesame: a light, bright salad with the sea at its heart.",
-          "desc_pt": "Camarões, abacate, tomates-cereja, ricota e gergelim: uma salada leve e luminosa, com o mar como protagonista.",
-          "precio": "11.990",
+          "nombre": "Humos del Puelo",
+          "desc_es": "Ensalada de salmón ahumado sobre mix de verdes: fresca, suave y con el carácter del sur.",
+          "desc_en": "Smoked salmon salad on mixed greens: fresh, delicate and with the character of the south.",
+          "desc_pt": "Salada de salmão defumado sobre mix de folhas: fresca, suave e com o caráter do sul.",
+          "precio": "15.500",
           "etiquetas": [],
           "visible": true
         }
@@ -442,14 +442,14 @@
           "desc_es": "Pisco chileno, limón de Pica, goma y angostura.",
           "desc_en": "Chilean pisco, Pica lime, sugar syrup and angostura.",
           "desc_pt": "Pisco chileno, limão de Pica, xarope de açúcar e angostura.",
-          "precio": "4.800",
+          "precio": "5.500",
           "etiquetas": [],
           "visible": true,
           "delivery": false
         },
         {
           "nombre": "Pasarela 35°",
-          "desc_es": "Pisco 35° Alto del Carmen y Coca-Cola.",
+          "desc_es": "Pisco 35° y Coca-Cola.",
           "desc_en": "35° pisco and Coca-Cola.",
           "desc_pt": "Pisco 35° e Coca-Cola.",
           "precio": "5.500",
@@ -462,17 +462,7 @@
           "desc_es": "Pisco reservado 40°, Coca-Cola y limón.",
           "desc_en": "40° reserve pisco, Coca-Cola and lemon.",
           "desc_pt": "Pisco reservado 40°, Coca-Cola e limão.",
-          "precio": "6.000",
-          "etiquetas": [],
-          "visible": true,
-          "delivery": false
-        },
-        {
-          "nombre": "Piscola La Pasarela",
-          "desc_es": "Pisco reservado 40° Mistral, Coca-Cola y limón.",
-          "desc_en": "40° reserve pisco, Coca-Cola and lemon.",
-          "desc_pt": "Pisco reservado 40°, Coca-Cola e limão.",
-          "precio": "6.000",
+          "precio": "5.500",
           "etiquetas": [],
           "visible": true,
           "delivery": false
@@ -482,7 +472,7 @@
           "desc_es": "Ron blanco, Coca-Cola y limón.",
           "desc_en": "White rum, Coca-Cola and lime.",
           "desc_pt": "Rum branco, Coca-Cola e limão.",
-          "precio": "6.500",
+          "precio": "5.500",
           "etiquetas": [],
           "visible": true,
           "delivery": false
@@ -492,7 +482,7 @@
           "desc_es": "Johnnie Walker Red sobre hielo.",
           "desc_en": "Johnnie Walker Red on the rocks.",
           "desc_pt": "Johnnie Walker Red com gelo.",
-          "precio": "6.800",
+          "precio": "5.500",
           "etiquetas": [],
           "visible": true,
           "delivery": false
@@ -502,7 +492,7 @@
           "desc_es": "Jack Daniel's, limón, goma, clara y angostura.",
           "desc_en": "Jack Daniel's, lemon, sugar syrup, egg white and angostura.",
           "desc_pt": "Jack Daniel's, limão, xarope de açúcar, clara e angostura.",
-          "precio": "6.500",
+          "precio": "5.500",
           "etiquetas": [],
           "visible": true,
           "delivery": false
@@ -512,7 +502,7 @@
           "desc_es": "Aperol, espumante brut, soda y naranja.",
           "desc_en": "Aperol, brut sparkling wine, soda and orange.",
           "desc_pt": "Aperol, espumante brut, água com gás e laranja.",
-          "precio": "6.500",
+          "precio": "5.500",
           "etiquetas": [],
           "visible": true,
           "delivery": false
@@ -522,7 +512,7 @@
           "desc_es": "Ramazzotti y naranja.",
           "desc_en": "Ramazzotti and orange.",
           "desc_pt": "Ramazzotti e laranja.",
-          "precio": "6.500",
+          "precio": "5.500",
           "etiquetas": [],
           "visible": true,
           "delivery": false
@@ -629,6 +619,33 @@
           "desc_en": "Still mineral water, 600 ml.",
           "desc_pt": "Água mineral sem gás, 600 ml.",
           "precio": "2.400",
+          "etiquetas": [],
+          "visible": true
+        },
+        {
+          "nombre": "Café Expreso",
+          "desc_es": "Expreso corto e intenso.",
+          "desc_en": "A short, intense espresso.",
+          "desc_pt": "Expresso curto e intenso.",
+          "precio": "2.000",
+          "etiquetas": [],
+          "visible": true
+        },
+        {
+          "nombre": "Café Americano",
+          "desc_es": "Expreso alargado con agua caliente.",
+          "desc_en": "Espresso lengthened with hot water.",
+          "desc_pt": "Expresso alongado com água quente.",
+          "precio": "2.000",
+          "etiquetas": [],
+          "visible": true
+        },
+        {
+          "nombre": "Cortado",
+          "desc_es": "Expreso con un toque de leche.",
+          "desc_en": "Espresso with a splash of milk.",
+          "desc_pt": "Expresso com um toque de leite.",
+          "precio": "2.500",
           "etiquetas": [],
           "visible": true
         }
