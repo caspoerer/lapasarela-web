@@ -70,7 +70,7 @@
           "desc_es": "Provoleta al orégano con tostadas, fundida como en un fogón sureño y servida para alargar la conversación.",
           "desc_en": "Oregano provoleta with toasts, melted as if over a southern hearth and served to stretch the conversation.",
           "desc_pt": "Provoleta ao orégano com torradas, derretida como num fogão a lenha do sul e servida para prolongar a conversa.",
-          "precio": "9.500",
+          "precio": "11.500",
           "etiquetas": [
             "vegetariano",
             "para compartir"
@@ -82,7 +82,7 @@
           "desc_es": "Tres brochetas de camarón con merquén: pequeñas brasas de sabor que llevan el sur directo a la mesa.",
           "desc_en": "Three shrimp skewers with merkén: small embers of flavour that bring the south straight to the table.",
           "desc_pt": "Três espetinhos de camarão com merkén: pequenas brasas de sabor que levam o sul direto à mesa.",
-          "precio": "9.500",
+          "precio": "10.500",
           "etiquetas": [
             "para compartir"
           ],
@@ -93,7 +93,7 @@
           "desc_es": "Papas fritas, queso fundido, tocino y cebolla acaramelizada: un cruce abundante entre picada chilena y cocina de autor.",
           "desc_en": "Fries, melted cheese, bacon and caramelised onion: a generous meeting of Chilean picada and chef-driven cooking.",
           "desc_pt": "Batatas fritas, queijo derretido, bacon e cebola caramelizada: um encontro farto entre o petisco chileno e a cozinha autoral.",
-          "precio": "7.500",
+          "precio": "8.500",
           "etiquetas": [
             "para compartir"
           ],
@@ -116,7 +116,7 @@
           "desc_es": "Ostiones a la parmesana",
           "desc_en": "Parmesan scallops",
           "desc_pt": "Vieiras ao parmesão",
-          "precio": "15.500",
+          "precio": "16.500",
           "etiquetas": [
             "para compartir"
           ],
@@ -127,7 +127,7 @@
           "desc_es": "Reineta crujiente con salsa tártara; una versión sureña de un clásico que llega a La Pasarela con identidad propia.",
           "desc_en": "Crispy reineta (southern pomfret) with tartar sauce; a southern take on a classic, with an identity of its own.",
           "desc_pt": "Reineta crocante com molho tártaro; uma versão sulista de um clássico, com identidade própria.",
-          "precio": "11.500",
+          "precio": "12.500",
           "etiquetas": [
             "para compartir"
           ],
@@ -149,7 +149,7 @@
           "desc_es": "Posta negra, yema y pepinillos en un equilibrio profundo y fresco, como un encuentro entre bosque, fuego y río.",
           "desc_en": "Beef (posta negra), egg yolk and pickles in a deep, fresh balance, like a meeting of forest, fire and river.",
           "desc_pt": "Carne bovina (posta negra), gema e pepinos em conserva em um equilíbrio profundo e fresco, como um encontro entre bosque, fogo e rio.",
-          "precio": "12.500",
+          "precio": "13.500",
           "etiquetas": [
             "para compartir"
           ],
@@ -160,7 +160,7 @@
           "desc_es": "Una alternativa vegetal que lleva la lógica del sur a la mesa: frescura, tierra y acidez en un recorrido lleno de matices.",
           "desc_en": "A plant-based alternative that brings the logic of the south to the table: freshness, earth and acidity, full of nuance.",
           "desc_pt": "Uma alternativa vegetal que leva a lógica do sul à mesa: frescor, terra e acidez em um percurso cheio de nuances.",
-          "precio": "10.500",
+          "precio": "11.500",
           "etiquetas": [
             "vegetariano",
             "para compartir"
@@ -194,7 +194,7 @@
           "desc_es": "Masa crujiente con camarón: el sabor del estuario sobre una misma balsa.",
           "desc_en": "Crisp dough with shrimp: the taste of the estuary on a single raft.",
           "desc_pt": "Massa crocante com camarão: o sabor do estuário sobre uma mesma balsa.",
-          "precio": "14.000",
+          "precio": "14.500",
           "etiquetas": [
             "para compartir"
           ],
@@ -205,7 +205,7 @@
           "desc_es": "Masa crujiente con champiñón y queso vegano: un cruce de sabores pensado para todos.",
           "desc_en": "Crisp dough with mushroom and vegan cheese: a crossing of flavours made for everyone.",
           "desc_pt": "Massa crocante com cogumelo e queijo vegano: um encontro de sabores pensado para todos.",
-          "precio": "12.500",
+          "precio": "13.500",
           "etiquetas": [
             "vegano",
             "para compartir"
@@ -239,7 +239,7 @@
           "desc_es": "La burger smash que representa el lado más cotidiano y querido de la casa: simple, generosa y hecha para volver a cruzar.",
           "desc_en": "The smash burger that stands for the most everyday, best-loved side of the house: simple, generous and made to come back for.",
           "desc_pt": "O smash burger que representa o lado mais cotidiano e querido da casa: simples, generoso e feito para voltar.",
-          "precio": "10.500",
+          "precio": "11.500",
           "etiquetas": [],
           "visible": true
         },
@@ -266,7 +266,7 @@
           "desc_es": "Burger smash a lo pobre con queso gauda, pepinillo y salsa La Pasarela: un clásico chileno cruzado por nuestra propia identidad.",
           "desc_en": "Smash burger a lo pobre (fried egg, onion and fries) with gouda, pickles and our house sauce: a Chilean classic crossed with our own identity.",
           "desc_pt": "Smash burger a lo pobre (ovo frito, cebola e batata frita) com queijo gouda, pepino em conserva e molho La Pasarela: um clássico chileno com a nossa identidade.",
-          "precio": "10.500",
+          "precio": "11.500",
           "etiquetas": [],
           "visible": true
         },
@@ -293,7 +293,7 @@
           "desc_es": "Pollo frito, coleslaw y brioche de papa en un cruce de texturas que combina lo reconfortante con lo fresco.",
           "desc_en": "Fried chicken, coleslaw and potato brioche: a crossing of textures that pairs comfort with freshness.",
           "desc_pt": "Frango frito, coleslaw e brioche de batata em um encontro de texturas que combina o reconfortante com o fresco.",
-          "precio": "10.500",
+          "precio": "11.500",
           "etiquetas": [],
           "visible": true
         },
@@ -358,7 +358,7 @@
           "desc_es": "Peras caramelizadas, queso azul, mix de verdes, nueces, jamón serrano y aceto: dulce, salado y profundo como un paisaje de otoño.",
           "desc_en": "Caramelised pears, blue cheese, mixed greens, walnuts, serrano ham and balsamic: sweet, salty and deep like an autumn landscape.",
           "desc_pt": "Peras caramelizadas, queijo azul, mix de folhas, nozes, presunto serrano e aceto balsâmico: doce, salgado e profundo como uma paisagem de outono.",
-          "precio": "10.900",
+          "precio": "11.900",
           "etiquetas": [],
           "visible": true
         },
@@ -368,274 +368,6 @@
           "desc_en": "Smoked salmon salad on mixed greens: fresh, delicate and with the character of the south.",
           "desc_pt": "Salada de salmão defumado sobre mix de folhas: fresca, suave e com o caráter do sul.",
           "precio": "15.500",
-          "etiquetas": [],
-          "visible": true
-        }
-      ]
-    },
-    {
-      "id": "postres",
-      "nombre_es": "Postres",
-      "nombre_en": "Desserts",
-      "nombre_pt": "Sobremesas",
-      "nota_es": "",
-      "nota_en": "",
-      "nota_pt": "",
-      "platos": [
-        {
-          "nombre": "Bosque de Chocolate",
-          "desc_es": "Brownie tibio con helado de vainilla: chocolate intenso y frío cremoso, como un pequeño refugio dulce entre árboles.",
-          "desc_en": "Warm brownie with vanilla ice cream: intense chocolate and cold creaminess, like a small sweet refuge among the trees.",
-          "desc_pt": "Brownie morno com sorvete de baunilha: chocolate intenso e frio cremoso, como um pequeno refúgio doce entre as árvores.",
-          "precio": "5.000",
-          "etiquetas": [
-            "vegetariano"
-          ],
-          "visible": true
-        },
-        {
-          "nombre": "Fogata Dulce",
-          "desc_es": "Churros calientes con chocolate y dulce de leche: el final perfecto para una sobremesa que no quiere terminar.",
-          "desc_en": "Hot churros with chocolate and dulce de leche: the perfect ending for a meal nobody wants to end.",
-          "desc_pt": "Churros quentes com chocolate e doce de leite: o final perfeito para uma conversa à mesa que ninguém quer terminar.",
-          "precio": "6.500",
-          "etiquetas": [
-            "vegetariano",
-            "para compartir"
-          ],
-          "visible": true
-        },
-        {
-          "nombre": "Tres Orillas",
-          "desc_es": "Copa de helado para cerrar el viaje. Sabores: vainilla, chocolate y berries.",
-          "desc_en": "Ice cream cup to end the journey. Flavours: vanilla, chocolate and berries.",
-          "desc_pt": "Taça de sorvete para fechar a viagem. Sabores: baunilha, chocolate e frutas vermelhas.",
-          "precio": "6.500",
-          "etiquetas": [
-            "vegetariano"
-          ],
-          "visible": true
-        }
-      ]
-    },
-    {
-      "id": "tragos",
-      "nombre_es": "Tragos",
-      "nombre_en": "Cocktails",
-      "nombre_pt": "Drinks",
-      "nota_es": "Solo para mayores de 18 años.",
-      "nota_en": "For guests aged 18 and over.",
-      "nota_pt": "Somente para maiores de 18 anos.",
-      "platos": [
-        {
-          "nombre": "Sour de La Pasarela",
-          "desc_es": "Pisco quebranta, limón, goma, clara y angostura.",
-          "desc_en": "Quebranta pisco, lemon, sugar syrup, egg white and angostura.",
-          "desc_pt": "Pisco quebranta, limão, xarope de açúcar, clara e angostura.",
-          "precio": "5.500",
-          "etiquetas": [],
-          "visible": true,
-          "delivery": false
-        },
-        {
-          "nombre": "Sour del Puelo",
-          "desc_es": "Pisco chileno, limón de Pica, goma y angostura.",
-          "desc_en": "Chilean pisco, Pica lime, sugar syrup and angostura.",
-          "desc_pt": "Pisco chileno, limão de Pica, xarope de açúcar e angostura.",
-          "precio": "5.500",
-          "etiquetas": [],
-          "visible": true,
-          "delivery": false
-        },
-        {
-          "nombre": "Pasarela 35°",
-          "desc_es": "Pisco 35° y Coca-Cola.",
-          "desc_en": "35° pisco and Coca-Cola.",
-          "desc_pt": "Pisco 35° e Coca-Cola.",
-          "precio": "5.500",
-          "etiquetas": [],
-          "visible": true,
-          "delivery": false
-        },
-        {
-          "nombre": "Pasarela 40°",
-          "desc_es": "Pisco reservado 40°, Coca-Cola y limón.",
-          "desc_en": "40° reserve pisco, Coca-Cola and lemon.",
-          "desc_pt": "Pisco reservado 40°, Coca-Cola e limão.",
-          "precio": "6.400",
-          "etiquetas": [],
-          "visible": true,
-          "delivery": false
-        },
-        {
-          "nombre": "Cruce Libre",
-          "desc_es": "Ron blanco, Coca-Cola y limón.",
-          "desc_en": "White rum, Coca-Cola and lime.",
-          "desc_pt": "Rum branco, Coca-Cola e limão.",
-          "precio": "5.500",
-          "etiquetas": [],
-          "visible": true,
-          "delivery": false
-        },
-        {
-          "nombre": "Carpintero Rojo",
-          "desc_es": "Johnnie Walker Red sobre hielo.",
-          "desc_en": "Johnnie Walker Red on the rocks.",
-          "desc_pt": "Johnnie Walker Red com gelo.",
-          "precio": "6.800",
-          "etiquetas": [],
-          "visible": true,
-          "delivery": false
-        },
-        {
-          "nombre": "Golpe del Carpintero",
-          "desc_es": "Jack Daniel's, limón, goma, clara y angostura.",
-          "desc_en": "Jack Daniel's, lemon, sugar syrup, egg white and angostura.",
-          "desc_pt": "Jack Daniel's, limão, xarope de açúcar, clara e angostura.",
-          "precio": "6.800",
-          "etiquetas": [],
-          "visible": true,
-          "delivery": false
-        },
-        {
-          "nombre": "Atardecer del Estuario",
-          "desc_es": "Aperol, espumante brut, soda y naranja.",
-          "desc_en": "Aperol, brut sparkling wine, soda and orange.",
-          "desc_pt": "Aperol, espumante brut, água com gás e laranja.",
-          "precio": "6.200",
-          "etiquetas": [],
-          "visible": true,
-          "delivery": false
-        },
-        {
-          "nombre": "Bruma del Estuario",
-          "desc_es": "Ramazzotti, espumante y naranja, con agua con gas o Sprite Zero.",
-          "desc_en": "Ramazzotti, sparkling wine and orange, with soda water or Sprite Zero.",
-          "desc_pt": "Ramazzotti, espumante e laranja, com água com gás ou Sprite Zero.",
-          "precio": "6.200",
-          "etiquetas": [],
-          "visible": true,
-          "delivery": false
-        },
-        {
-          "nombre": "Bruma de La Pasarela",
-          "desc_es": "Beefeater con tónica y limón. También con bebida.",
-          "desc_en": "Beefeater with tonic and lemon. Also available with a soft drink.",
-          "desc_pt": "Beefeater com tônica e limão. Também com refrigerante.",
-          "precio": "6.500",
-          "etiquetas": [],
-          "visible": true,
-          "delivery": false
-        },
-        {
-          "nombre": "Bosque de Albahaca",
-          "desc_es": "Hendrick's con tónica, albahaca y limón. También con bebida.",
-          "desc_en": "Hendrick's with tonic, basil and lemon. Also available with a soft drink.",
-          "desc_pt": "Hendrick's com tônica, manjericão e limão. Também com refrigerante.",
-          "precio": "6.500",
-          "etiquetas": [],
-          "visible": true,
-          "delivery": false
-        },
-        {
-          "nombre": "Noche del Puelo",
-          "desc_es": "Licor 43 y espresso sobre hielo.",
-          "desc_en": "Licor 43 and espresso on ice.",
-          "desc_pt": "Licor 43 e espresso com gelo.",
-          "precio": "5.500",
-          "etiquetas": [],
-          "visible": true,
-          "delivery": false
-        }
-      ]
-    },
-    {
-      "id": "bebidas",
-      "nombre_es": "Bebidas",
-      "nombre_en": "Soft Drinks",
-      "nombre_pt": "Refrigerantes",
-      "nota_es": "",
-      "nota_en": "",
-      "nota_pt": "",
-      "platos": [
-        {
-          "nombre": "Coca-Cola",
-          "desc_es": "",
-          "desc_en": "",
-          "desc_pt": "",
-          "precio": "2.500",
-          "etiquetas": [],
-          "visible": true
-        },
-        {
-          "nombre": "Fanta",
-          "desc_es": "",
-          "desc_en": "",
-          "desc_pt": "",
-          "precio": "2.500",
-          "etiquetas": [],
-          "visible": true
-        },
-        {
-          "nombre": "Sprite",
-          "desc_es": "",
-          "desc_en": "",
-          "desc_pt": "",
-          "precio": "2.500",
-          "etiquetas": [],
-          "visible": true
-        },
-        {
-          "nombre": "Perrier",
-          "desc_es": "Agua mineral con gas, 330 cc.",
-          "desc_en": "Sparkling mineral water, 330 ml.",
-          "desc_pt": "Água mineral com gás, 330 ml.",
-          "precio": "3.400",
-          "etiquetas": [],
-          "visible": true
-        },
-        {
-          "nombre": "Cachantun con gas",
-          "desc_es": "Agua mineral con gas, 600 cc.",
-          "desc_en": "Sparkling mineral water, 600 ml.",
-          "desc_pt": "Água mineral com gás, 600 ml.",
-          "precio": "2.400",
-          "etiquetas": [],
-          "visible": true
-        },
-        {
-          "nombre": "Cachantun sin gas",
-          "desc_es": "Agua mineral sin gas, 600 cc.",
-          "desc_en": "Still mineral water, 600 ml.",
-          "desc_pt": "Água mineral sem gás, 600 ml.",
-          "precio": "2.400",
-          "etiquetas": [],
-          "visible": true
-        },
-        {
-          "nombre": "Café Expreso",
-          "desc_es": "Expreso corto e intenso.",
-          "desc_en": "A short, intense espresso.",
-          "desc_pt": "Expresso curto e intenso.",
-          "precio": "2.000",
-          "etiquetas": [],
-          "visible": true
-        },
-        {
-          "nombre": "Café Americano",
-          "desc_es": "Expreso alargado con agua caliente.",
-          "desc_en": "Espresso lengthened with hot water.",
-          "desc_pt": "Expresso alongado com água quente.",
-          "precio": "2.000",
-          "etiquetas": [],
-          "visible": true
-        },
-        {
-          "nombre": "Cortado",
-          "desc_es": "Expreso con un toque de leche.",
-          "desc_en": "Espresso with a splash of milk.",
-          "desc_pt": "Expresso com um toque de leite.",
-          "precio": "2.500",
           "etiquetas": [],
           "visible": true
         }
