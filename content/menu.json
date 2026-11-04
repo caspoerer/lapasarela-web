@@ -11,9 +11,9 @@
       "platos": [
         {
           "nombre": "Maderos de Jaiba",
-          "desc_es": "Seis croquetas doradas de jaiba, pensadas como pequeños maderos que invitan a cruzar hacia el sabor del estuario, acompañadas de mayo-limón.",
-          "desc_en": "Six golden crab croquettes, shaped like small timbers that invite you across to the flavours of the estuary, served with lemon mayo.",
-          "desc_pt": "Seis croquetes dourados de siri, pensados como pequenas toras que convidam a atravessar até o sabor do estuário, com maionese de limão.",
+          "desc_es": "Croquetas doradas de jaiba, pensadas como pequeños maderos que invitan a cruzar hacia el sabor del estuario, acompañadas de mayo-limón.",
+          "desc_en": "Golden crab croquettes, shaped like small timbers that invite you across to the flavours of the estuary, served with lemon mayo.",
+          "desc_pt": "Croquetes dourados de siri, pensados como pequenas toras que convidam a atravessar até o sabor do estuário, com maionese de limão.",
           "precio": "11.500",
           "etiquetas": [
             "para compartir"
@@ -33,9 +33,9 @@
         },
         {
           "nombre": "Pequeñas Pasarelas",
-          "desc_es": "Seis empanaditas de carne, hechas para compartir y para abrir el primer cruce de la mesa.",
-          "desc_en": "Six small beef empanadas, made for sharing and for the table's first crossing.",
-          "desc_pt": "Seis pequenas empanadas de carne, feitas para compartilhar e abrir a primeira travessia da mesa.",
+          "desc_es": "Empanaditas de carne, hechas para compartir y para abrir el primer cruce de la mesa.",
+          "desc_en": "Small beef empanadas, made for sharing and for the table's first crossing.",
+          "desc_pt": "Pequenas empanadas de carne, feitas para compartilhar e abrir a primeira travessia da mesa.",
           "precio": "10.500",
           "etiquetas": [
             "para compartir"
@@ -79,9 +79,9 @@
         },
         {
           "nombre": "Camarones \"al Palo\"",
-          "desc_es": "Tres brochetas de camarón con merquén: pequeñas brasas de sabor que llevan el sur directo a la mesa.",
-          "desc_en": "Three shrimp skewers with merkén: small embers of flavour that bring the south straight to the table.",
-          "desc_pt": "Três espetinhos de camarão com merkén: pequenas brasas de sabor que levam o sul direto à mesa.",
+          "desc_es": "Brochetas de camarón con merquén: pequeñas brasas de sabor que llevan el sur directo a la mesa.",
+          "desc_en": "Shrimp skewers with merkén: small embers of flavour that bring the south straight to the table.",
+          "desc_pt": "Espetinhos de camarão com merkén: pequenas brasas de sabor que levam o sul direto à mesa.",
           "precio": "10.500",
           "etiquetas": [
             "para compartir"
@@ -124,9 +124,9 @@
         },
         {
           "nombre": "\"Fish & Chips\" Patagón",
-          "desc_es": "Reineta crujiente con salsa tártara; una versión sureña de un clásico que llega a La Pasarela con identidad propia.",
-          "desc_en": "Crispy reineta (southern pomfret) with tartar sauce; a southern take on a classic, with an identity of its own.",
-          "desc_pt": "Reineta crocante com molho tártaro; uma versão sulista de um clássico, com identidade própria.",
+          "desc_es": "Pescado del día crujiente con salsa tártara; una versión sureña de un clásico que llega a La Pasarela con identidad propia.",
+          "desc_en": "Crispy catch of the day with tartar sauce; a southern take on a classic, with an identity of its own.",
+          "desc_pt": "Peixe do dia crocante com molho tártaro; uma versão sulista de um clássico, com identidade própria.",
           "precio": "12.500",
           "etiquetas": [
             "para compartir"
@@ -170,16 +170,16 @@
       ]
     },
     {
-      "id": "balsa",
-      "nombre_es": "Balsas",
-      "nombre_en": "Balsas",
-      "nombre_pt": "Balsas",
-      "nota_es": "Nuestra masa ovalada, horneada al estilo pinsa.",
-      "nota_en": "Our oval-shaped dough, baked pinsa-style.",
-      "nota_pt": "Nossa massa oval, assada no estilo pinsa.",
+      "id": "pizza",
+      "nombre_es": "Pizzas",
+      "nombre_en": "Pizzas",
+      "nombre_pt": "Pizzas",
+      "nota_es": "Nuestra masa ovalada, horneada al estilo italiano.",
+      "nota_en": "Our oval-shaped dough, baked Italian-style.",
+      "nota_pt": "Nossa massa oval, assada no estilo italiano.",
       "platos": [
         {
-          "nombre": "Balsa del Puelo",
+          "nombre": "Pizza del Puelo",
           "desc_es": "Masa crujiente con brisket y palta; pequeños cruces inspirados en las aguas del Puelo.",
           "desc_en": "Crisp dough with brisket and avocado; small crossings inspired by the waters of the Puelo.",
           "desc_pt": "Massa crocante com brisket e abacate; pequenas travessias inspiradas nas águas do Puelo.",
@@ -190,7 +190,7 @@
           "visible": true
         },
         {
-          "nombre": "Balsa de Estuario",
+          "nombre": "Pizza de Estuario",
           "desc_es": "Masa crujiente con camarón: el sabor del estuario sobre una misma balsa.",
           "desc_en": "Crisp dough with shrimp: the taste of the estuary on a single raft.",
           "desc_pt": "Massa crocante com camarão: o sabor do estuário sobre uma mesma balsa.",
@@ -201,7 +201,7 @@
           "visible": true
         },
         {
-          "nombre": "Balsa del Bosque",
+          "nombre": "Pizza del Bosque",
           "desc_es": "Masa crujiente con champiñón y queso vegano: un cruce de sabores pensado para todos.",
           "desc_en": "Crisp dough with mushroom and vegan cheese: a crossing of flavours made for everyone.",
           "desc_pt": "Massa crocante com cogumelo e queijo vegano: um encontro de sabores pensado para todos.",
@@ -213,7 +213,7 @@
           "visible": true
         },
         {
-          "nombre": "Balsa de la Orilla",
+          "nombre": "Pizza de la Orilla",
           "desc_es": "Masa crujiente, prosciutto y rúcula: un juego de texturas que convierte cada bocado en un pequeño viaje.",
           "desc_en": "Crisp dough, prosciutto and rocket: a play of textures that turns every bite into a small journey.",
           "desc_pt": "Massa crocante, presunto cru e rúcula: um jogo de texturas que transforma cada bocado em uma pequena viagem.",
@@ -236,7 +236,7 @@
       "platos": [
         {
           "nombre": "La Pasarela Clásica",
-          "desc_es": "La burger smash que representa el lado más cotidiano y querido de la casa: simple, generosa y hecha para volver a cruzar.",
+          "desc_es": "La burger smash que representa el lado más cotidiano y querido de la casa: lechuga, tomate, pepinillos, queso cheddar, cebolla.",
           "desc_en": "The smash burger that stands for the most everyday, best-loved side of the house: simple, generous and made to come back for.",
           "desc_pt": "O smash burger que representa o lado mais cotidiano e querido da casa: simples, generoso e feito para voltar.",
           "precio": "11.500",
