@@ -241,7 +241,7 @@
           "desc_pt": "Filé bovino com batatas fritas e molho à escolha (pimenta, vinho ou molho do dia): firme e generoso, como a balsa que leva à outra margem.",
           "precio": "",
           "etiquetas": [],
-          "visible": false
+          "visible": true
         },
         {
           "nombre": "Carne del Remanso",
@@ -250,7 +250,7 @@
           "desc_pt": "Carne cozida lentamente no próprio caldo, com pastelera de milho (purê cremoso de milho): um prato tranquilo e profundo, como o remanso onde o rio descansa.",
           "precio": "",
           "etiquetas": [],
-          "visible": false
+          "visible": true
         },
         {
           "nombre": "Salmón Sereno",
@@ -259,7 +259,7 @@
           "desc_pt": "Salmão na chapa sobre um risoto cremoso: limpo, sedoso e sereno como um lago do sul ao amanhecer.",
           "precio": "",
           "etiquetas": [],
-          "visible": false
+          "visible": true
         }
       ]
     },
